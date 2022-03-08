@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import {useQuery} from "react-query";
 import {Drawer, LinearProgress, Grid} from "@material-ui/core";
-// import {AddShoppingCart} from "@material-ui/icons";
 import {Wrapper} from "./App.styles";
 import Item from "./components/Item/Item";
 import Cart from "./components/Cart/Cart";
