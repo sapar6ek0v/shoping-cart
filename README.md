@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demo
+
+Open in browser to view [url](https://shoping-cart-ivory.vercel.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
